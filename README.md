@@ -1,5 +1,6 @@
 # movie-recommender-system
-A content based movie recommender system using cosine similarity.
+A content-based movie recommender system using cosine similarity.
+App link: https://evermover-movie-recommender-movies-recommender-systemapp-54ghtn.streamlit.app/
 
 Movie Recommendation System Using Cosine Similarities
 This project uses the TMDB credits dataset to recommend movies to users.
